@@ -1,3 +1,5 @@
+# After registering on themoviedb.org site, you can use this project by getting your own api key.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
