@@ -30,6 +30,9 @@ const getMovie = async (movieId) => {
   return fetchMovieApi(`/movie/${movieId}`);
 };
 
+
+
+
 export {
   fetchMovieApi,
   getSingleCategory,
