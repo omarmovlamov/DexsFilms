@@ -5,7 +5,6 @@ const API_URL = "https://api.themoviedb.org/3";
 
 
 
-
 const fetchMovieApi = async (pathname, query = "") => {
   try {
     const res = await fetch(
